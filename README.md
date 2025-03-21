@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This is a simple AI-powered Greeting Agent that responds to user inputs based on predefined rules. It uses OpenAI's API (incorrectly referenced as Gemini in the code) to generate responses.
+This is a simple AI-powered Greeting Agent that responds to user inputs based on predefined rules. It uses OpenAI's API to generate responses.
 
 ## ✨ Features
 
